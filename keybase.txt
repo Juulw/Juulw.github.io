@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/juulw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://juulwester.nl
+  * I am juulw (https://keybase.io/juulw) on keybase.
+  * I have a public key with fingerprint B797 FA49 AAB4 C533 5F5D  0542 F796 321C E5C3 2EF6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a16aec783e3f49e55106c00668af3c892b1ee109e75f8d669a8a8f629c342a6f0a",
+            "fingerprint": "b797fa49aab4c5335f5d0542f796321ce5c32ef6",
+            "host": "keybase.io",
+            "key_id": "f796321ce5c32ef6",
+            "kid": "0101a16aec783e3f49e55106c00668af3c892b1ee109e75f8d669a8a8f629c342a6f0a",
+            "uid": "e5a32c1eb0370e95d3f04d3a196d9919",
+            "username": "juulw"
+        },
+        "revoke": {
+            "sig_ids": [
+                "bead4465e2ff7ac78e150c7cff11888a8dbcdce9d54c917c9f453eb1e3bd6fb40f"
+            ]
+        },
+        "service": {
+            "hostname": "juulwester.nl",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1498746539,
+    "expire_in": 157680000,
+    "prev": "f965ee80a77841762776d847bb0e547335f6c562a54d8ab801f9c815e77483a3",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMJzAnicrZJdaFxFFMd3TWKa1ZSqgSSUIlywpjW0M3fuzNxZUqloBb9aEkiXkIZl
+7twzye1u793cvbvpGgKKoEatiC/VPuhDbXCjVaoP1tpWK4XaD6ogUgJGWvwIIn2w
+xAfFEucGBR98dF6Gmfmf//mdc+ZsZ0sml73jUuNpb2nxUPbimV9rmZHhte9MW17k
+N6z8tFWC1Q3KPlSTYinwrbyFMMISMwmKuwSIdgRQihFTCDHmSk2UK2wPA2AkgFPt
++owJ6UpXM1so4tiSaSStfksH4TjElTgIE2PrccG1dISUnqMoIVRTH1HH1lwwYmMF
+VBEbNDOBE1E1jTBwnqzCliAyd+ZQXMX7D/3/zF1btQMqia0weIhwBIL6RCPHJxIL
+5guBRSqsQhzKfWDUe2u18pQ102/FUI9KkDa1Gowb4qqVH7U8kL7jMAq21lwaPsAU
+Ka60xth1DYLvKV+B8KmjBOZKaIcSMKzE85n2HKStMeNt0tUDtWqetujfqc34IN4S
+lg1VJY6SSEVl8zSRJJVqPsVKGpVUOwVe8W+XoheEvpmQiahDXA2i0Mpjo1RJkNpi
+R7jcIBPRb8H+ShBDMUgVlDMXmZXmgXo6D2HqAhdJzl0Hc2ZzznzX4Z6HgDo8HTRT
+lNmSOr4rPRdhLZSLKXDuuEQSK61rMoysPDeYctxYms6FMqnFYM18/tme1kw2l7m1
+7Zb052ZyHev++c/b1rav7Np/48WeUyeWh3d/9dB7PWR++thtw6/d2LqeXelaKmxY
+2dHd2fXu9Tfntn+3tyO71F549Tf0xAfXtq65fNfgmUd/3lF+uNBsPbdvz/kr+eWh
+9c8szI9ezZ+YHFzc1D1170D34+Wp5YW5vpbFNb8c7Hmw/lQfa4x80/HhIytPfvRl
+yz2Dzbuf6736ycDp08fU4cOtv3ccP3jzsbZm9tPC7h+b16NDjdmxdf10aPufG9+6
+1vLD9NAB+tJw38ncqSO9M6NHvpg7f3YyfGUzfb792zcuTeS6NjRLz759YTbX2Xv0
++4Vk41znnf4YtBWW6g+U/jj3cfz1zvmfbh4YObl4fPPACy/vnH1928B97bdffP/+
+vwCprFSu
+=GBDv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/juulw
+
+==================================================================
